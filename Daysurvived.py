@@ -4,6 +4,7 @@ birth_date = input("Enter Birthdate(DD/MM/YYYY):")
 a = int(birth_date.split('/')[0])
 b = int(birth_date.split('/')[1])
 c = int(birth_date.split('/')[2])
+'''What is this'''
 
 current_date = input("Enter Current date(DD/MM/YYYY):")
 
